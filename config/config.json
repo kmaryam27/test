@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "myjs123",
-    "database": "todolist",
-    "host": "localhost",
+    "username": "z3jy74t6cfczxau3",
+    "password": "u50rbq1bqigakqg8",
+    "database": "i10hpdfz3uu4p93q",
+    "host": "jsftj8ez0cevjz8v.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "port": 3306,
     "dialect": "mysql"
   },
